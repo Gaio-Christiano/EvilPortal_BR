@@ -1,5 +1,7 @@
 # Brasil EvilPortal HTML Files
 
+Criado para testar a segurança interna da empresa em relação a reconhecer uma fraude ou não.
+
 Repositório criado com o objetivo de reunir arquivos HTML (telas de coleta) para uso como [**portal captive**](https://en-m-wikipedia-org.translate.goog/wiki/Captive_portal?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc) (**Evil Portal**), especificamente adaptados para o contexto brasileiro 🇧🇷.
 
 ### Bruce Firmware on M5Stack
